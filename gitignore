@@ -1,0 +1,5 @@
+*.exe
+*.pdb
+*.sdf
+OpenGL_SDL Base Project/OpenGL_SDL Base Project/Debug/
+*.db
